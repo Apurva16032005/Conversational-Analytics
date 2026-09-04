@@ -1,0 +1,21 @@
+Employee_ID,Name,Department,Age,Salary,Years_of_Experience,Performance_Score,Projects_Completed,Remote_Worker,Join_Date
+101,Alice Smith,Sales,28,55000.0,3,85.5,12,Yes,2021-03-15
+102,Bob Jones,Engineering,34,95000.0,8,92.0,18,No,2018-07-22
+103,Charlie Brown,Marketing,23,48000.0,0,78.0,0,Yes,2023-08-01
+104,Diana Prince,Engineering,29,88000.0,5,,14,Yes,2020-11-10
+105,Evan Wright,Sales,41,62000.0,12,65.0,8,No,2015-02-18
+106,Fiona Gallagher,HR,31,52000.0,4,88.5,10,No,2019-06-30
+107,George Clark,Finance,45,105000.0,15,95.0,20,No,2012-04-12
+108,Hannah Abbott,Marketing,26,50000.0,1,72.0,3,Yes,2022-09-19
+109,Ian Malcolm,Engineering,38,11000.0,10,89.0,0,Yes,2016-05-25
+110,Julia Roberts,Sales,24,47000.0,0,,0,No,2023-01-10
+111,Kevin Bacon,Finance,33,78000.0,6,81.5,11,Yes,2019-10-05
+112,Laura Croft,Engineering,27,85000.0,3,94.0,9,Yes,2021-04-14
+113,Michael Scott,Sales,48,75000.0,14,70.0,15,No,2014-03-01
+114,Nina Simone,HR,29,54000.0,2,86.0,5,Yes,2021-12-01
+115,Oscar Martinez,Finance,36,82000.0,8,,13,No,2018-08-15
+116,Pam Beesly,Sales,30,51000.0,5,80.0,7,No,2019-02-14
+117,Quentin Tarantino,Marketing,42,71000.0,11,75.5,0,Yes,2015-11-20
+118,Rachel Green,HR,25,49000.0,1,83.0,2,No,2022-07-11
+119,Steve Rogers,Engineering,50,120000.0,15,98.0,19,No,2013-05-01
+120,Tina Fey,Marketing,35,68000.0,7,87.0,10,Yes,2018-03-22

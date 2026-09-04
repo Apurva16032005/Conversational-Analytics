@@ -1,0 +1,7 @@
+pandasai
+streamlit
+google.generativeai
+seaborn
+python-dotenv
+grpcio==1.59.2
+urllib3==1.26.7

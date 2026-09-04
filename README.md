@@ -2,9 +2,6 @@
 
 A powerful Streamlit web application that combines the simplicity of natural language with advanced AI capabilities to perform comprehensive data analytics on CSV files. Built with PandasAI and Google's Generative AI, this platform makes data analysis accessible to everyone.
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://pandas-ai-website.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
 ## 🎯 Features
 

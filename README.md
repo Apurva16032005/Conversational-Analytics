@@ -29,8 +29,8 @@ A powerful Streamlit web application that combines the simplicity of natural lan
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Yash-Kavaiya/ai-analytics.git
-   cd ai-analytics
+   git clone https://github.com/Apurva16032005/Conversational-Analytics.git
+   cd Conversational-Analytics
    ```
 
 2. **Install dependencies**
@@ -85,13 +85,11 @@ A powerful Streamlit web application that combines the simplicity of natural lan
 ## 📁 Project Structure
 
 ```
-ai-analytics/
+Conversational-Analytics/
 ├── streamlit_app.py          # Main Streamlit application
 ├── requirements.txt          # Python dependencies
 ├── diabetes.csv             # Sample dataset
 ├── pandasai.ipynb          # Jupyter notebook for experimentation
-├── pandasai.log            # AI conversation logs
-├── cache/                  # Cached AI responses
 ├── marketing youtube thumbnail.png  # Project thumbnail
 └── README.md               # This file
 ```
@@ -155,9 +153,3 @@ If you encounter any issues or have questions:
 - 📧 Create an issue on GitHub
 - 💬 Watch the [YouTube tutorial](https://youtube.com/live/dtB78cuY08U) for detailed guidance
 - 🌐 Try the [live demo](https://pandas-ai-website.streamlit.app/) first
-
----
-
-
-
-

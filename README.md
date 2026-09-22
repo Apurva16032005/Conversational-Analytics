@@ -11,7 +11,6 @@ A powerful Streamlit web application that combines the simplicity of natural lan
 - **📁 CSV File Support**: Easy drag-and-drop file upload
 - **📈 Statistical Analysis**: Perform complex statistical operations with simple queries
 - **🎨 Beautiful UI**: Clean, intuitive Streamlit interface
-- **🐳 Docker Ready**: Containerized for easy deployment
 
 ## 🎥 Demo
 
@@ -62,20 +61,6 @@ A powerful Streamlit web application that combines the simplicity of natural lan
 
 5. **Open your browser** and navigate to `http://localhost:8501`
 
-## 🐳 Docker Deployment
-
-1. **Build the Docker image**
-   ```bash
-   docker build -t ai-analytics .
-   ```
-
-2. **Run the container**
-   ```bash
-   docker run -p 8080:8080 ai-analytics
-   ```
-
-3. **Access the app** at `http://localhost:8080`
-
 ## 📖 Usage Guide
 
 1. **Upload Data**: Click "Upload a CSV file" and select your dataset
@@ -103,7 +88,6 @@ A powerful Streamlit web application that combines the simplicity of natural lan
 ai-analytics/
 ├── streamlit_app.py          # Main Streamlit application
 ├── requirements.txt          # Python dependencies
-├── Dockerfile               # Docker configuration
 ├── diabetes.csv             # Sample dataset
 ├── pandasai.ipynb          # Jupyter notebook for experimentation
 ├── pandasai.log            # AI conversation logs
@@ -119,7 +103,6 @@ ai-analytics/
 - **[Google PaLM](https://developers.generativeai.google/)**: Large language model
 - **[Pandas](https://pandas.pydata.org/)**: Data manipulation and analysis
 - **[Matplotlib](https://matplotlib.org/)**: Data visualization
-- **[Docker](https://docker.com/)**: Containerization
 
 ## 🔧 Configuration
 
